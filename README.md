@@ -6,6 +6,4 @@ The YOLOv5s model was trained on a custom dataset, which can be accessed at the 
 
 <h2 align="center"></h1>
 
-<p float="left" align="middle">
   <img src="https://blog.roboflow.com/content/images/2020/10/smokey.gif" width="50%" hspace="20"/>
-</p>
